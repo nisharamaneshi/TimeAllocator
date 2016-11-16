@@ -1,0 +1,2 @@
+# TimeAllocator
+Time allocating program
